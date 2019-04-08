@@ -1,2 +1,4 @@
-# website
-Website for Digitible
+# Welcome to Digitible 
+
+## TODO 
+
